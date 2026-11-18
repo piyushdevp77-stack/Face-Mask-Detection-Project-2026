@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/
+.env
+.streamlit/secrets.toml
+Face-Mask-Detection-CNN/
