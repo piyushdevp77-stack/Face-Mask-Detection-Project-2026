@@ -1,5 +1,5 @@
-
 import streamlit as st
 
-st.title("Streamlit Cloud Test")
-st.success("My Streamlit app is running successfully!")
+st.title("Face Mask Detection - Cloud Test")
+st.success("Streamlit Cloud is running successfully!")
+st.write("This is a test without TensorFlow or webcam.")
